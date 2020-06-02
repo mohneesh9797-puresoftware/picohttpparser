@@ -4,6 +4,5 @@ arch:
     - arm64
 compiler:
   - gcc
-  - clang
 script:
   - make test
